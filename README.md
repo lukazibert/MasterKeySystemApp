@@ -90,8 +90,9 @@ flutter build ios --release
 
 ### Open release
 
+Make sure that you re in the correct directory ios or android and run:
+
 ````bash
-cd ios
 open Runner.xcworkspace
 ````
 
