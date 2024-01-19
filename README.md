@@ -41,6 +41,16 @@ cd MasterKeySystemApp
 flutter pub get
 ````
 
+## Build Flutter project fro IOS od Android
+
+````bash
+flutter build ios
+````
+
+````bash
+flutter build android
+````
+
 Open the iOS Project in Xcode
 
 ````bash
