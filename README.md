@@ -17,6 +17,12 @@ Before you begin, make sure you have Flutter and Xcode installed on your machine
 cd Documents
 ````
 
+## Create a new directory for the project
+
+````bash
+mkdir Master Key sytstem App
+````
+
 ### Clone the Repository
 
 ```bash
