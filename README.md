@@ -32,7 +32,7 @@ git clone https://github.com/lukazibert/MasterKeySystemApp.git
 ## Move to the repo
 
 ````bash
-cd master_key_system
+cd MasterKeySystemApp
 ````
 
 ## Install Dependencies
