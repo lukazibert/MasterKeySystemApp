@@ -61,6 +61,13 @@ open Runner.xcworkspace
 ## Select Target Device in Xcode
 Choose your target device (e.g., your connected iPhone or a simulator) in Xcode.
 
+## Trust developer
+If you get an error that the develper tem is not trusted go to:
+
+````bash
+Settings -> General -> VPN & Device management -> Trust the APP
+````
+
 ## Updates
 
 To get the latest updates, pull the changes from the repository:
