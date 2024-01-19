@@ -20,7 +20,8 @@ cd Documents
 ## Create a new directory for the project
 
 ````bash
-mkdir Master Key sytstem App
+mkdir MasterKeySystemApp
+cd MasterKeySystemApp
 ````
 
 ### Clone the Repository
