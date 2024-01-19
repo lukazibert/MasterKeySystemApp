@@ -1,16 +1,43 @@
-# master_key_system
+# Master Key System
 
-A new Flutter project.
+Welcome to the Master Key System Flutter project! This project serves as a starting point for a Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, make sure you have Flutter and Xcode installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter installation guide](https://flutter.dev/docs/get-started/install)
+- [Xcode installation guide](https://developer.apple.com/xcode/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/master_key_system.git
+cd master_key_system
+````
+
+## Install Dependencies
+
+````bash
+flutter pub get
+````
+
+Open the iOS Project in Xcode
+
+````bash
+cd ios
+open Runner.xcworkspace
+````
+
+## Select Target Device in Xcode
+Choose your target device (e.g., your connected iPhone or a simulator) in Xcode.
+
+## Updates
+
+To get the latest updates, pull the changes from the repository:
+
+````bash
+git pull origin main
+````
