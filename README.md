@@ -81,3 +81,19 @@ git pull origin main
 ## Release Build
 * App that will stay on your phone like a normal app
 * Comming soon...
+
+### Build release
+
+````bash
+flutter build ios --release
+````
+
+### Open release
+
+````bash
+cd ios
+open Runner.xcworkspace
+````
+
+
+
