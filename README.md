@@ -11,7 +11,7 @@ Before you begin, make sure you have Flutter and Xcode installed on your machine
 - [Flutter installation guide](https://flutter.dev/docs/get-started/install)
 - [Xcode installation guide](https://developer.apple.com/xcode/)
 
-## MOve to a directory you want e.g. Documents
+## Move to a directory you want e.g. Documents
 
 ````bash
 cd Documents
