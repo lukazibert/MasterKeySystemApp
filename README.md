@@ -76,3 +76,8 @@ To get the latest updates, pull the changes from the repository:
 ````bash
 git pull origin main
 ````
+
+
+## Release Build
+* App that will stay on your phone like a normal app
+* Comming soon...
