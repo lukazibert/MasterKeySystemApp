@@ -27,7 +27,7 @@ cd MasterKeySystemApp
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/lukazibert/master_key_system.git](https://github.com/lukazibert/MasterKeySystemApp.git)
+git clone [https://github.com/lukazibert/master_key_system.git]
 ````
 ## Move to the repo
 
