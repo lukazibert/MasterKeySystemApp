@@ -87,10 +87,7 @@ git pull origin main
 ````bash
 flutter build ios --release
 ````
-
-### Open release
-
-Make sure that you re in the correct directory ios or android and run:
+### Make sure the you ar ein the right directory ios/adroid
 
 ````bash
 open Runner.xcworkspace
