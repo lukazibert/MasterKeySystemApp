@@ -14,7 +14,7 @@ Before you begin, make sure you have Flutter and Xcode installed on your machine
 ### Clone the Repository
 
 ```bash
-git clone git clone https://github.com/lukazibert/master_key_system.git
+git clone https://github.com/lukazibert/master_key_system.git
 ````
 ## Move to the repo
 
